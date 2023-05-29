@@ -1,3 +1,3 @@
 # ReactJS-Interview-Question
 
-TOP 75 Interview Question of ReactTJS
+TOP 75 Interview Question of ReactJS
